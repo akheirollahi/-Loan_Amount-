@@ -1,3 +1,6 @@
+## Loan Amount Prediction using ML models
+![eeb023a0-69fc-11ee-be7a-ae05124c7c48](https://github.com/user-attachments/assets/6d758efd-9718-44e4-b55f-1e1386069753)
+
 
 ## 🎯 Objective
 
