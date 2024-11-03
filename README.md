@@ -35,6 +35,7 @@ This app predicts how much of a loan will be granted to an applicant. For this t
 
 ## 📈 Methods
 
+- Define a Pipeline to handle data cleaning
 - Exploratory data analysis: 1. Bivariate analysis  2. Multivariate analysis
 - Model development
 
