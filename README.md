@@ -33,3 +33,20 @@ This app predicts how much of a loan will be granted to an applicant. For this t
 - Property Price 
 - Loan Sanction Amount (USD)
 
+## 📈 Methods
+
+- Exploratory data analysis: 1. Bivariate analysis  2. Multivariate analysis
+- Model development
+
+Top 3 models (with default parameters)
+
+| Model with the best hyperparameter     	                | RMSE 	|
+|-------------------	                                    |------------------	|
+| Gradient Boosting Regression      	                    | 20732.10 	            |
+| Random Forest Regression   	                            | 20981.79            |
+| Extra Trees Regression           	                      | 21117.96	            |
+
+
+
+
+
